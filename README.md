@@ -1,4 +1,4 @@
-<h2> Hi, I'm ZaynabNour 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm ZaynabNour <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
 
@@ -8,10 +8,10 @@
 </p>
 </em></p>
 
-A little more about me...  
+A little more about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 ```javascript
-const thai = {
+const zee = {
   code: [HTML, CSS, Javascript, Python, PHP, SQL],
   tools: [React, Node.js, Express, Laravel, Bootstrap],
   databases: [MYSQL, MongoDB],
